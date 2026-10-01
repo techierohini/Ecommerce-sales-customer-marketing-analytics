@@ -1,0 +1,18 @@
+File,Column,Definition
+customers.csv,Customer_ID,Unique synthetic customer key
+customers.csv,Acquisition_Cost,Synthetic customer acquisition cost
+customers.csv,Lifecycle_Status,Active / At Risk / Churn Risk / One-Time Inactive
+customers.csv,CLV_Proxy,Realized customer profit minus CAC
+customers.csv,Price_Sensitivity_Band,Behavior-derived synthetic discount sensitivity
+products.csv,Base_Gross_Margin,Pre-discount product gross margin
+products.csv,Brand_Tier,Synthetic brand positioning
+orders.csv,Customer_Type,New vs Returning based on order sequence
+orders.csv,Gross_Sales,List price multiplied by quantity
+orders.csv,Discount_Amount,Synthetic discount value
+orders.csv,Net_Revenue,Gross sales after discount
+orders.csv,Gross_Profit,Net revenue minus COGS
+orders.csv,Contribution_Profit,Gross profit after shipping and payment fees
+orders.csv,Realized_Revenue,Revenue after returns/refunds
+orders.csv,Realized_Profit,Profit after synthetic return impact
+orders.csv,Campaign_ID,Synthetic campaign attribution
+product_monthly_snapshot.csv,Demand_Index,Synthetic monthly product demand signal
