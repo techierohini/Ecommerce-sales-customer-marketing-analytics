@@ -1,7 +1,0 @@
-Campaign_ID,Campaign_Type,Channel,Campaign_Start,Campaign_End,Campaign_Budget
-CAMP_NONE,Organic/None,Organic,2024-01-01,2026-09-01,0
-CAMP_FEST,Festival,Email,2024-01-01,2026-09-01,1800000
-CAMP_SEARCH,Paid Search,Paid Search,2024-01-01,2026-09-01,2400000
-CAMP_SOCIAL,Paid Social,Social,2024-01-01,2026-09-01,1900000
-CAMP_REFERRAL,Referral,Referral,2024-01-01,2026-09-01,900000
-CAMP_RETARGET,Retargeting,Paid Search,2024-01-01,2026-09-01,1300000
