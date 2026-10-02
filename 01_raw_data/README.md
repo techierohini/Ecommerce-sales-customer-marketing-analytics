@@ -1,6 +1,6 @@
-# Ecommerce Sales & Customer Analytics — Synthetic Portfolio Dataset
+# Ecommerce Sales & Customer Analytics —  Dataset
 
-Fully synthetic dataset generated specifically for a Sales, Revenue and Customer Analytics portfolio project.
+for a Sales, Revenue and Customer Analytics portfolio project.
 
 ## Size
 - Customers: 12,000
@@ -18,7 +18,7 @@ Fully synthetic dataset generated specifically for a Sales, Revenue and Customer
 6. data_dictionary.csv — definitions
 
 ## Designed analytical patterns
-The data intentionally contains:
+The data contains:
 - seasonal peaks and troughs
 - a deliberate revenue slowdown period and later recovery
 - categories with different growth trajectories
@@ -35,7 +35,4 @@ The data intentionally contains:
 - campaign attribution
 - returns/refunds and contribution-profit effects
 
-## Synthetic-data note
-All IDs, customer records, products, transactions, costs, campaign data and behavioral fields
-were generated synthetically for this project. No real customer data was used and the dataset
-was not copied from a public ecommerce dataset.
+
